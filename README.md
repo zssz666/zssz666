@@ -34,6 +34,18 @@
 
 <p align="center"><sub>卡片可以点击。Bug 暂不支持点击消除。</sub></p>
 
+### 🐍 BONUS LEVEL · 小蛇来清场
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/snake/snake.svg" />
+    <img src="assets/snake/snake.svg" width="100%" alt="贪吃蛇正在吃掉 zssz666 的 GitHub 贡献方块" />
+  </picture>
+</p>
+
+<p align="center"><sub>今天的代码，明天的口粮。根据我的真实贡献记录，每天自动刷新。</sub></p>
+
 <details>
 <summary>🧩 点击领取一条开发者冷知识</summary>
 
