@@ -1,57 +1,51 @@
-<h1 align="center">Hi, I'm stewie 👋</h1>
-
 <p align="center">
-  <b>全栈工程师 · 业余实验员 · Bug 临时监护人</b>
+  <a href="https://stewie.fun"><img src="./hero.svg" width="100%" alt="stewie — full-stack developer. Animated space arcade banner. Visit stewie.fun." /></a>
 </p>
 
 <p align="center">
-  把好奇心写成代码，把踩过的坑写成实验报告。
+  <a href="https://stewie.fun"><b>🪐 我的博客 · stewie.fun ↗</b></a>
+  &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/zssz666?tab=repositories">🕹️ 探索我的项目</a>
 </p>
 
+### 👾 PLAYER 01 · 关于我
+
+我是 **stewie**，一个喜欢给生活写补丁的全栈工程师。
+
+前端、后端、AI、自动化都折腾。看到重复操作想写脚本，看到新点子想建仓库。
+
+> **主线任务**：把东西做好。 **支线任务**：看看还能加点什么。
+>
+> **隐藏关卡**：修好刚加的东西。
+
+### 🎒 LOADOUT · 当前装备
+
 <p align="center">
-  <a href="https://stewie.fun">🧪 参观 Stewie Lab</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/zssz666?tab=repositories">📦 看看我在折腾什么</a>
+  <img src="https://skillicons.dev/icons?i=vue,ts,vite,java,spring,mysql,py,nodejs,git&amp;theme=dark&amp;perline=9" alt="Vue, TypeScript, Vite, Java, Spring Boot, MySQL, Python, Node.js, Git" />
 </p>
+
+### 🛸 SIDE QUESTS · 已解锁的支线
+
+<p align="center">
+  <a href="https://github.com/zssz666/stewie-blog"><img src="./project-blog.svg" width="32%" alt="Stewie Lab：Vue 和 TypeScript 个人博客" /></a>
+  <a href="https://github.com/zssz666/AI-generated-email"><img src="./project-email.svg" width="32%" alt="AI Email Agent：集装箱贸易 AI 邮件处理与交叉审核" /></a>
+  <a href="https://github.com/zssz666/codex-usage-card-windows"><img src="./project-codex.svg" width="32%" alt="Codex Usage Card：基于社区项目的 Windows 适配" /></a>
+</p>
+
+<p align="center"><sub>卡片可以点击。Bug 暂不支持点击消除。</sub></p>
+
+<details>
+<summary>🧩 点击领取一条开发者冷知识</summary>
+
+“我就改一行。”
+
+—— 每个新支线任务的开场白。
+
+</details>
 
 ---
 
-## 🧑‍🔬 研究员档案
-
-你好，我是 **stewie**，在 GitHub 上的代号是 `zssz666`。
-
-写前端，也写后端；做业务系统，也折腾 AI 和自动化小工具。
-喜欢把「这能不能省点事？」做成能用的东西，然后把过程记在 [Stewie Lab](https://stewie.fun)。
-
-- 🧱 用 **Vue / TypeScript** 搭界面，用 **Java / Spring Boot** 写后台。
-- 🤖 给 AI 安排回邮件的工作，再给它安排一位 AI 质检员。
-- 🔧 遇到重复操作，第一反应是：这事能不能交给脚本？
-- 📝 博客负责记录经验，GitHub 负责保存折腾现场。
-
-## 🧪 实验台上的作品
-
-| 实验 | 做了什么 | 顺便说一句 |
-| :--- | :--- | :--- |
-| [Stewie Lab](https://github.com/zssz666/stewie-blog) | 基于 Vue 3 / TypeScript 的个人博客，配套 [Spring Boot 后端](https://github.com/zssz666/stewie-blog-springboot) | 原本只想写文章，后来给博客装了示波器。 |
-| [AI Email Agent](https://github.com/zssz666/AI-generated-email) | 面向集装箱贸易的 AI 邮件处理项目，包含意图识别、库存查询、回复生成和交叉审核 | AI 写完不能直接下班，还得过质检。 |
-| [Codex Usage Card · Windows](https://github.com/zssz666/codex-usage-card-windows) | 基于社区项目做 Windows 适配，在 Codex 客户端侧栏显示剩余额度 | 写代码可以沉浸，剩多少额度得心里有数。 |
-
-## 🛠️ 技术装备栏
-
-| 用途 | 常用装备 |
-| :--- | :--- |
-| 把想法摆到屏幕上 | Vue 3 · TypeScript · Vite · Element Plus |
-| 让页面背后的事情跑起来 | Java · Spring Boot · MySQL |
-| 让机器多干一点活 | Python · Node.js · AI API |
-
-装备按需求切换，好奇心常驻。
-
-## 💭 开发时的内心活动
-
-> 看到重复操作：「写个脚本吧。」  
-> 看到新点子：「做个小项目吧。」  
-> 看到报错：「来都来了，查明白再走吧。」
-
-欢迎聊技术、提 Issue，或者来 [博客](https://stewie.fun) 看看最近的实验。
-
-<p align="center"><sub>实验还在继续，README 先写到这里。</sub></p>
+<p align="center">
+  <b>不一定每次都一次跑通，但每次都想做点有意思的。</b><br />
+  <sub>感谢路过。下一站：<a href="https://stewie.fun">stewie.fun</a> 🚀</sub>
+</p>
