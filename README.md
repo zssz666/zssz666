@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://stewie.fun"><img src="./hero.svg" width="100%" alt="stewie — full-stack developer. Animated space arcade banner. Visit stewie.fun." /></a>
+  <a href="https://stewie.fun"><img src="./hero.gif" width="100%" alt="stewie — full-stack developer. Animated space arcade banner. Visit stewie.fun." /></a>
 </p>
 
 <p align="center">
